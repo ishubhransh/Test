@@ -1,0 +1,75 @@
+body {
+    font-family: digital-7;
+    color: #DAD6D6;
+    margin: 2cm;
+    text-align: center;  
+    background-color: #171A21;
+    background-position: center;
+    background-image: url("clock.svg");
+    background-repeat: no-repeat;
+}
+div{
+    margin: 100px auto;
+    max-width: 100%;
+    min-width: 20%;
+    
+    
+}
+
+#heading{
+    text-decoration: underline;
+    margin-top: 125px;
+    color: black;
+    font-size: 40px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+#timer{
+    font-size: 2.5em;
+    color: black;
+}
+
+#start {
+  color: #DAD6D6;
+  margin: 20px auto;
+  border:solid 2px #575555;
+  text-align: center;
+  letter-spacing: 2px;
+  background: #044d0e;
+  border-radius:5px;
+  padding:16px 40px 16px;
+  cursor:pointer;
+}
+
+#stop {
+  margin: 20px 5px auto;
+  letter-spacing: 2px;
+  border:solid 2px #575555;
+  padding:16px 40px 16px;
+  text-align: center;
+  color: #DAD6D6;
+  background: #74031e;
+  border-radius:5px;
+  cursor:pointer;
+}
+
+#reset {
+  letter-spacing: 2px;
+  margin: 20px auto;
+  padding:16px 40px 16px;
+  border:solid 2px #575555;
+  cursor:pointer;
+  text-align: center;
+  color: #DAD6D6;
+  background: #140569;
+  border-radius:5px;
+  
+}
+
+h2
+{
+  letter-spacing: 2px;
+  margin: 200px 0 0 ;
+  font-size: 46px;
+  
+}
